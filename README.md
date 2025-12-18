@@ -1,5 +1,3 @@
-# cyvqet
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2600&pause=1200&color=6B7280&vCenter=true&width=520&lines=Systems+Developer;Backend+%26+Infrastructure+Engineer;Continuously+Learning+Architecture+%26+Go" />
 
 **Systems / Backend Developer**  
